@@ -37,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://anarchobooleanism.github.io/anarchobooleanism.github.io"
+  "homepage": "https://anarchobooleanism.github.io/anarchobooleanism.github.io",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
